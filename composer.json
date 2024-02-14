@@ -1,0 +1,9 @@
+{
+    "name": "root/app",
+    "type": "project",
+    "autoload": {
+    },
+    "require": {
+        "jcupitt/vips": "2.3.0"
+    }
+}
